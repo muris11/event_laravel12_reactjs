@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['http://localhost:5173', 'http://localhost:3000', 'https://gastronomis.id', 'http://gastronomis.id'],
+    'allowed_origins' => ['http://localhost:5173', 'http://localhost:3000', 'https://gastronomi.id', 'http://gastronomi.id'],
 
     'allowed_origins_patterns' => [],
 
